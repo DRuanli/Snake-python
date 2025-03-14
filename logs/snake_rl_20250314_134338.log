@@ -1,0 +1,2 @@
+2025-03-14 13:43:38,089 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_134338.log
+2025-03-14 13:43:38,090 [INFO] Starting training mode with rl agent

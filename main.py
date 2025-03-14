@@ -6,6 +6,8 @@ import argparse
 import pygame
 import time
 import torch
+import random
+import numpy as np
 
 from game.snake import Direction
 from game.game_engine import GameEngine
