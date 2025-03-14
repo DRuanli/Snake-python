@@ -1,0 +1,4 @@
+2025-03-14 14:14:58,692 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_141458.log
+2025-03-14 14:14:58,692 [INFO] Starting agent comparison mode
+2025-03-14 14:15:01,055 [INFO] Testing Random agent
+2025-03-14 14:15:04,092 [INFO] Random Episode 1/20 | Score: 0

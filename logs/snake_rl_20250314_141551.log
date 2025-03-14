@@ -1,0 +1,114 @@
+2025-03-14 14:15:51,830 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_141551.log
+2025-03-14 14:15:51,830 [INFO] Starting training mode with rl agent
+2025-03-14 14:15:53,150 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_141553.log
+2025-03-14 14:15:53,150 [INFO] Starting training for 1000 episodes...
+2025-03-14 14:15:53,155 [INFO] Episode 10/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 1.00 | Time: 0.00s
+2025-03-14 14:15:53,157 [INFO] Episode 20/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 1.00 | Time: 0.01s
+2025-03-14 14:15:53,159 [INFO] Episode 30/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 1.00 | Time: 0.01s
+2025-03-14 14:15:53,162 [INFO] Episode 40/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.01s
+2025-03-14 14:15:53,170 [INFO] Episode 50/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.99 | Time: 0.02s
+2025-03-14 14:15:53,178 [INFO] Episode 60/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.03s
+2025-03-14 14:15:53,194 [INFO] Episode 70/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.04s
+2025-03-14 14:15:53,339 [INFO] Episode 80/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.19s
+2025-03-14 14:15:53,384 [INFO] Episode 90/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.99 | Time: 0.23s
+2025-03-14 14:15:53,454 [INFO] Episode 100/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.98 | Time: 0.30s
+2025-03-14 14:15:53,499 [INFO] Episode 110/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.98 | Time: 0.35s
+2025-03-14 14:15:53,538 [INFO] Episode 120/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.98 | Time: 0.39s
+2025-03-14 14:15:53,573 [INFO] Episode 130/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.98 | Time: 0.42s
+2025-03-14 14:15:53,602 [INFO] Episode 140/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.98 | Time: 0.45s
+2025-03-14 14:15:53,626 [INFO] Episode 150/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.98 | Time: 0.48s
+2025-03-14 14:15:53,653 [INFO] Episode 160/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.98 | Time: 0.50s
+2025-03-14 14:15:53,694 [INFO] Episode 170/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.98 | Time: 0.54s
+2025-03-14 14:15:53,734 [INFO] Episode 180/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.97 | Time: 0.58s
+2025-03-14 14:15:53,764 [INFO] Episode 190/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.97 | Time: 0.61s
+2025-03-14 14:15:53,811 [INFO] Episode 200/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.97 | Time: 0.66s
+2025-03-14 14:15:53,868 [INFO] Episode 210/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.97 | Time: 0.72s
+2025-03-14 14:15:53,928 [INFO] Episode 220/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.97 | Time: 0.78s
+2025-03-14 14:15:54,018 [INFO] Episode 230/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.97 | Time: 0.87s
+2025-03-14 14:15:54,108 [INFO] Episode 240/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.97 | Time: 0.96s
+2025-03-14 14:15:54,292 [INFO] Episode 250/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.96 | Time: 1.14s
+2025-03-14 14:15:54,342 [INFO] Episode 260/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.96 | Time: 1.19s
+2025-03-14 14:15:54,399 [INFO] Episode 270/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.96 | Time: 1.25s
+2025-03-14 14:15:54,492 [INFO] Episode 280/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.96 | Time: 1.34s
+2025-03-14 14:15:54,548 [INFO] Episode 290/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.96 | Time: 1.40s
+2025-03-14 14:15:54,606 [INFO] Episode 300/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.96 | Time: 1.46s
+2025-03-14 14:15:54,708 [INFO] Episode 310/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.95 | Time: 1.56s
+2025-03-14 14:15:54,800 [INFO] Episode 320/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.95 | Time: 1.65s
+2025-03-14 14:15:54,891 [INFO] Episode 330/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.95 | Time: 1.74s
+2025-03-14 14:15:54,988 [INFO] Episode 340/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.95 | Time: 1.84s
+2025-03-14 14:15:55,059 [INFO] Episode 350/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.95 | Time: 1.91s
+2025-03-14 14:15:55,138 [INFO] Episode 360/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.95 | Time: 1.99s
+2025-03-14 14:15:55,279 [INFO] Episode 370/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.95 | Time: 2.13s
+2025-03-14 14:15:55,623 [INFO] Episode 380/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.95 | Time: 2.47s
+2025-03-14 14:15:55,931 [INFO] Episode 390/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.94 | Time: 2.78s
+2025-03-14 14:15:56,019 [INFO] Episode 400/1000 | Score: 0 | Avg Reward: -9.90 | Epsilon: 0.94 | Time: 2.87s
+2025-03-14 14:15:56,087 [INFO] Episode 410/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.94 | Time: 2.94s
+2025-03-14 14:15:56,175 [INFO] Episode 420/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.94 | Time: 3.02s
+2025-03-14 14:15:56,258 [INFO] Episode 430/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.94 | Time: 3.11s
+2025-03-14 14:15:56,321 [INFO] Episode 440/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.94 | Time: 3.17s
+2025-03-14 14:15:56,380 [INFO] Episode 450/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.93 | Time: 3.23s
+2025-03-14 14:15:56,449 [INFO] Episode 460/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.93 | Time: 3.30s
+2025-03-14 14:15:56,504 [INFO] Episode 470/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.93 | Time: 3.35s
+2025-03-14 14:15:56,569 [INFO] Episode 480/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.93 | Time: 3.42s
+2025-03-14 14:15:56,632 [INFO] Episode 490/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.93 | Time: 3.48s
+2025-03-14 14:15:56,721 [INFO] Episode 500/1000 | Score: 0 | Avg Reward: -9.81 | Epsilon: 0.93 | Time: 3.57s
+2025-03-14 14:15:56,721 [INFO] Evaluating agent for 10 episodes...
+2025-03-14 14:15:56,740 [INFO] Evaluation complete | Avg Score: 0.00
+2025-03-14 14:15:56,747 [INFO] New best model saved with score 0.0
+2025-03-14 14:15:56,815 [INFO] Episode 510/1000 | Score: 0 | Avg Reward: -9.81 | Epsilon: 0.92 | Time: 3.66s
+2025-03-14 14:15:56,862 [INFO] Episode 520/1000 | Score: 0 | Avg Reward: -9.80 | Epsilon: 0.92 | Time: 3.71s
+2025-03-14 14:15:56,923 [INFO] Episode 530/1000 | Score: 0 | Avg Reward: -9.80 | Epsilon: 0.91 | Time: 3.77s
+2025-03-14 14:15:57,006 [INFO] Episode 540/1000 | Score: 0 | Avg Reward: -9.80 | Epsilon: 0.91 | Time: 3.86s
+2025-03-14 14:15:57,052 [INFO] Episode 550/1000 | Score: 0 | Avg Reward: -9.80 | Epsilon: 0.91 | Time: 3.90s
+2025-03-14 14:15:57,104 [INFO] Episode 560/1000 | Score: 0 | Avg Reward: -9.79 | Epsilon: 0.91 | Time: 3.95s
+2025-03-14 14:15:57,154 [INFO] Episode 570/1000 | Score: 0 | Avg Reward: -9.79 | Epsilon: 0.91 | Time: 4.00s
+2025-03-14 14:15:57,237 [INFO] Episode 580/1000 | Score: 0 | Avg Reward: -9.79 | Epsilon: 0.91 | Time: 4.09s
+2025-03-14 14:15:57,292 [INFO] Episode 590/1000 | Score: 0 | Avg Reward: -9.89 | Epsilon: 0.90 | Time: 4.14s
+2025-03-14 14:15:57,337 [INFO] Episode 600/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.90 | Time: 4.19s
+2025-03-14 14:15:57,390 [INFO] Episode 610/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.90 | Time: 4.24s
+2025-03-14 14:15:57,449 [INFO] Episode 620/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.90 | Time: 4.30s
+2025-03-14 14:15:57,547 [INFO] Episode 630/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.90 | Time: 4.40s
+2025-03-14 14:15:57,630 [INFO] Episode 640/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.90 | Time: 4.48s
+2025-03-14 14:15:57,675 [INFO] Episode 650/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.89 | Time: 4.52s
+2025-03-14 14:15:57,727 [INFO] Episode 660/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.89 | Time: 4.58s
+2025-03-14 14:15:57,784 [INFO] Episode 670/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.89 | Time: 4.63s
+2025-03-14 14:15:57,871 [INFO] Episode 680/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.89 | Time: 4.72s
+2025-03-14 14:15:57,909 [INFO] Episode 690/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.89 | Time: 4.76s
+2025-03-14 14:15:57,965 [INFO] Episode 700/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.89 | Time: 4.81s
+2025-03-14 14:15:58,016 [INFO] Episode 710/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.89 | Time: 4.87s
+2025-03-14 14:15:58,062 [INFO] Episode 720/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.88 | Time: 4.91s
+2025-03-14 14:15:58,103 [INFO] Episode 730/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.88 | Time: 4.95s
+2025-03-14 14:15:58,181 [INFO] Episode 740/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.88 | Time: 5.03s
+2025-03-14 14:15:58,259 [INFO] Episode 750/1000 | Score: 0 | Avg Reward: -9.92 | Epsilon: 0.88 | Time: 5.11s
+2025-03-14 14:15:58,319 [INFO] Episode 760/1000 | Score: 0 | Avg Reward: -9.92 | Epsilon: 0.88 | Time: 5.17s
+2025-03-14 14:15:58,370 [INFO] Episode 770/1000 | Score: 0 | Avg Reward: -9.92 | Epsilon: 0.88 | Time: 5.22s
+2025-03-14 14:15:58,428 [INFO] Episode 780/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.88 | Time: 5.28s
+2025-03-14 14:15:58,487 [INFO] Episode 790/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.87 | Time: 5.34s
+2025-03-14 14:15:58,527 [INFO] Episode 800/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.87 | Time: 5.38s
+2025-03-14 14:15:58,603 [INFO] Episode 810/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.87 | Time: 5.45s
+2025-03-14 14:15:58,690 [INFO] Episode 820/1000 | Score: 0 | Avg Reward: -9.91 | Epsilon: 0.87 | Time: 5.54s
+2025-03-14 14:15:58,740 [INFO] Episode 830/1000 | Score: 0 | Avg Reward: -9.92 | Epsilon: 0.87 | Time: 5.59s
+2025-03-14 14:15:58,793 [INFO] Episode 840/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.87 | Time: 5.64s
+2025-03-14 14:15:58,893 [INFO] Episode 850/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.86 | Time: 5.74s
+2025-03-14 14:15:58,949 [INFO] Episode 860/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.86 | Time: 5.80s
+2025-03-14 14:15:59,027 [INFO] Episode 870/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.86 | Time: 5.88s
+2025-03-14 14:15:59,070 [INFO] Episode 880/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.86 | Time: 5.92s
+2025-03-14 14:15:59,119 [INFO] Episode 890/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.86 | Time: 5.97s
+2025-03-14 14:15:59,195 [INFO] Episode 900/1000 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.86 | Time: 6.04s
+2025-03-14 14:15:59,243 [INFO] Episode 910/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.86 | Time: 6.09s
+2025-03-14 14:15:59,295 [INFO] Episode 920/1000 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.85 | Time: 6.14s
+2025-03-14 14:15:59,364 [INFO] Episode 930/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.85 | Time: 6.21s
+2025-03-14 14:15:59,439 [INFO] Episode 940/1000 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.85 | Time: 6.29s
+2025-03-14 14:15:59,492 [INFO] Episode 950/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.85 | Time: 6.34s
+2025-03-14 14:15:59,552 [INFO] Episode 960/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.85 | Time: 6.40s
+2025-03-14 14:15:59,624 [INFO] Episode 970/1000 | Score: 0 | Avg Reward: -10.00 | Epsilon: 0.85 | Time: 6.47s
+2025-03-14 14:15:59,683 [INFO] Episode 980/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.85 | Time: 6.53s
+2025-03-14 14:15:59,738 [INFO] Episode 990/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.84 | Time: 6.59s
+2025-03-14 14:15:59,803 [INFO] Episode 1000/1000 | Score: 0 | Avg Reward: -9.99 | Epsilon: 0.84 | Time: 6.65s
+2025-03-14 14:15:59,807 [INFO] Model saved to models/model_episode_1000.pt
+2025-03-14 14:15:59,807 [INFO] Evaluating agent for 10 episodes...
+2025-03-14 14:15:59,829 [INFO] Evaluation complete | Avg Score: 0.10
+2025-03-14 14:15:59,833 [INFO] New best model saved with score 0.1
+2025-03-14 14:15:59,836 [INFO] Final model saved to models/final_model.pt
+2025-03-14 14:16:00,448 [INFO] Training metrics plotted and saved to training_metrics.png
+2025-03-14 14:16:00,448 [INFO] Training completed

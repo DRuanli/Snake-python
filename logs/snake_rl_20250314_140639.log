@@ -1,0 +1,4 @@
+2025-03-14 14:06:39,738 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_140639.log
+2025-03-14 14:06:39,738 [INFO] Starting test mode with rl agent
+2025-03-14 14:07:26,892 [INFO] Episode 1/10 | Score: 24 | Steps: 434
+2025-03-14 14:08:43,445 [INFO] Episode 2/10 | Score: 44 | Steps: 733

@@ -1,0 +1,15 @@
+2025-03-14 14:29:05,047 [INFO] Logger initialized | Log file: logs/snake_rl_20250314_142905.log
+2025-03-14 14:29:05,047 [INFO] Starting training for 100 episodes...
+2025-03-14 14:29:05,052 [INFO] Episode 10/100 | Score: 0 | Avg Reward: -9.95 | Epsilon: 1.00 | Time: 0.00s
+2025-03-14 14:29:05,069 [INFO] Episode 20/100 | Score: 0 | Avg Reward: -9.96 | Epsilon: 1.00 | Time: 0.02s
+2025-03-14 14:29:05,075 [INFO] Episode 30/100 | Score: 0 | Avg Reward: -10.01 | Epsilon: 0.99 | Time: 0.03s
+2025-03-14 14:29:05,078 [INFO] Episode 40/100 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.03s
+2025-03-14 14:29:05,081 [INFO] Episode 50/100 | Score: 0 | Avg Reward: -10.02 | Epsilon: 0.99 | Time: 0.03s
+2025-03-14 14:29:05,194 [INFO] Episode 60/100 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.99 | Time: 0.15s
+2025-03-14 14:29:05,280 [INFO] Episode 70/100 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.98 | Time: 0.23s
+2025-03-14 14:29:05,405 [INFO] Episode 80/100 | Score: 0 | Avg Reward: -10.04 | Epsilon: 0.98 | Time: 0.36s
+2025-03-14 14:29:05,522 [INFO] Episode 90/100 | Score: 0 | Avg Reward: -10.03 | Epsilon: 0.98 | Time: 0.47s
+2025-03-14 14:29:05,617 [INFO] Episode 100/100 | Score: 0 | Avg Reward: -10.04 | Epsilon: 0.98 | Time: 0.57s
+2025-03-14 14:29:05,622 [INFO] Final model saved to models/final_model.pt
+2025-03-14 14:29:06,199 [INFO] Training metrics plotted and saved to training_metrics.png
+2025-03-14 14:29:06,199 [INFO] Training completed
